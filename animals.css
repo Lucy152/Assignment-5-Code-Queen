@@ -1,0 +1,24 @@
+body {
+    background-image: url("img/picture.jpg")
+}
+.prg{
+    opacity: 40%;
+}
+#pg1{
+    color: turquoise;
+}
+#pg2{
+    color: olive;
+}
+#pg3{
+    color: maroon;
+}
+#pg4{
+    color: green;
+}
+#pg5{
+    color: red;
+}
+#pg6{
+    color: black;
+}
